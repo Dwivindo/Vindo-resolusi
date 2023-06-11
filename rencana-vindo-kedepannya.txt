@@ -2,3 +2,6 @@ Rencana pembelajarannya
 - Ingin belajar bahasa inggris
 - Ingin memperbagus html dan css 
 - Ingin memperbagus skill bahasa inggris
+- Ingin belajar sebuah framework dari front end 
+  a. React 
+  b. Angular
