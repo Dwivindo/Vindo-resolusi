@@ -3,4 +3,5 @@ Resolusi vindo untuk belajar programmer
 - Mempelajari javascript dan react 
 - Membuat portofolio untuk melamar sebuah pekerjaan,
 - membuat banyak proyek
-- memperbanyak networking
+- memperbanyak networking 
+- Bergabung sebuah komunitas
