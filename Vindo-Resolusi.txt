@@ -2,3 +2,5 @@ Resolusi vindo untuk belajar programmer
 - Belajar minimal 4jam sehari.
 - Mempelajari javascript dan react 
 - Membuat portofolio untuk melamar sebuah pekerjaan,
+- membuat banyak proyek
+- memperbanyak networking
